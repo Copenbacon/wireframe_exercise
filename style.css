@@ -1,0 +1,38 @@
+header {
+  background-color: #444444;
+  width: 101%;
+  height: 100px;
+  position: relative;
+  margin-top: -0.5%;
+  margin-left: -0.5%
+}
+
+nav {
+  position: relative;
+  left: 15%;
+  width: 960px;
+}
+
+#nav-bar {
+  display: inline;
+  height: 100px;
+}
+
+#logo {
+  position: relative;
+  top: 15px;
+  left: 1%;
+}
+
+.nav-items {
+  position: relative;
+  display: inline;
+  bottom:15px;
+  margin: 5%;
+}
+
+#banner {
+  /*position: ;*/
+  width: 960px;
+  margin: 0 auto;
+}
